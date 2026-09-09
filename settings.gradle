@@ -1,0 +1,6 @@
+rootProject.name = 'microservices-project'
+
+include 'discovery-server'
+include 'customer-service'
+include 'product-service'
+include 'order-service'
